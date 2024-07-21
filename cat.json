@@ -1,0 +1,31 @@
+[
+    {
+        "id":1,
+        "Name":"Pre-Built Systems",
+        "pid":0
+    },
+    
+    {
+        "id":2,
+        "Name":"GPU's/CPU's",
+        "pid":0
+
+    },
+    {
+        "id":3,
+        "Name":"RAM's/SSD's",
+        "pid":0
+
+    },
+    {
+        "id":4,
+        "Name":"Cooling Unit",
+        "pid":0
+
+    },
+    {
+        "id":5,
+        "Name":"Power Supply Unit",
+        "pid":0
+    }
+]

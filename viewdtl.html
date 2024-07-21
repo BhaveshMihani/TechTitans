@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IBuy Power Gaming PC</title>
+    <link rel="stylesheet" href="css/style1.css">
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css"
+      media="screen">
+      <script src="https://code.jquery.com/jquery-3.7.1.min.js"
+      integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+</head>
+<body>
+    <script>
+         $(document).ready(function(){
+            $.getJSON("prod.json",function(data){
+                url= new URLSearchParams(window.location.search)
+                par_id= url.get('id');
+                t='';
+                for(i=0;i<data.length;i++){
+                    if( par_id== data[i].id){
+                        t+='<img src="'+data[i].img+'" alt="'+data[i].Name+'"><div class="info"><h1>'+data[i].Name+'</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi similique nulla pariatur debitis repudiandae veniam. Voluptatibus, labore consectetur laudantium rerum nesciunt expedita obcaecati doloribus est.</p><span class="price">$99.99</span><span class="availability">In stock</span><input type="number" class="quantity" value="1" min="1" max="10"><button class="add-to-cart">Add to cart</button></div>';
+                    }
+                };
+                $("#prd").append(t)
+            });
+        });          
+    </script>
+    <div class="container">
+        <div class="product" id="prd">
+            
+        </div>
+    </div>
+</body>
+</html>

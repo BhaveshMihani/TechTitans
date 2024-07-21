@@ -1,0 +1,162 @@
+[
+    {
+        "id": 6,
+        "Name": "IBuy Power Gaming PC",
+        "img": "icon/p7.jpg",
+        "price": "$25.55",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti a perspiciatis accusamus corporis aspernatur dolorem culpa laboriosam. Incidunt, accusantium a. Earum, autem? Sed, vitae facere?",
+        "pid": 1
+    },
+    {
+        "id": 7,
+        "Name": "RTX 4060",
+        "img": "icon/p2.png",
+        "price": "$25.55",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti a perspiciatis accusamus corporis aspernatur dolorem culpa laboriosam. Incidunt, accusantium a. Earum, autem? Sed, vitae facere?",
+        "pid": 2
+    },
+    {
+        "id": 8,
+        "Name": "Samsung SSD 512GB",
+        "img": "icon/p3.png",
+        "price": "$25.55",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti a perspiciatis accusamus corporis aspernatur dolorem culpa laboriosam. Incidunt, accusantium a. Earum, autem? Sed, vitae facere?",
+        "pid": 3
+    },
+    {
+        "id": 9,
+        "Name": "Cooling Unit",
+        "img": "icon/p4.png",
+        "price": "$25.55",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti a perspiciatis accusamus corporis aspernatur dolorem culpa laboriosam. Incidunt, accusantium a. Earum, autem? Sed, vitae facere?",
+        "pid": 4
+    },
+    {
+        "id": 10,
+        "Name": "Power Supply Unit",
+        "img": "icon/p5.png",
+        "price": "$25.55",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti a perspiciatis accusamus corporis aspernatur dolorem culpa laboriosam. Incidunt, accusantium a. Earum, autem? Sed, vitae facere?",
+        "pid": 5
+    },
+    {
+        "id": 11,
+        "Name": "IBuy Power Gaming PC",
+        "img": "icon/p7.jpg",
+        "price": "$25.55",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti a perspiciatis accusamus corporis aspernatur dolorem culpa laboriosam. Incidunt, accusantium a. Earum, autem? Sed, vitae facere?",
+        "pid": 1
+    },
+    {
+        "id": 12,
+        "Name": "RTX 4060",
+        "img": "icon/p2.png",
+        "price": "$25.55",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti a perspiciatis accusamus corporis aspernatur dolorem culpa laboriosam. Incidunt, accusantium a. Earum, autem? Sed, vitae facere?",
+        "pid": 2
+    },
+    {
+        "id": 13,
+        "Name": "Samsung SSD 512GB",
+        "img": "icon/p3.png",
+        "price": "$25.55",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti a perspiciatis accusamus corporis aspernatur dolorem culpa laboriosam. Incidunt, accusantium a. Earum, autem? Sed, vitae facere?",
+        "pid": 3
+    },
+    {
+        "id": 14,
+        "Name": "Cooling Unit",
+        "img": "icon/p4.png",
+        "price": "$25.55",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti a perspiciatis accusamus corporis aspernatur dolorem culpa laboriosam. Incidunt, accusantium a. Earum, autem? Sed, vitae facere?",
+        "pid": 4
+    },
+    {
+        "id": 15,
+        "Name": "Power Supply Unit",
+        "img": "icon/p5.png",
+        "price": "$25.55",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti a perspiciatis accusamus corporis aspernatur dolorem culpa laboriosam. Incidunt, accusantium a. Earum, autem? Sed, vitae facere?",
+        "pid": 5
+    },
+    {
+        "id": 16,
+        "Name": "IBuy Power Gaming PC",
+        "img": "icon/p7.jpg",
+        "price": "$25.55",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti a perspiciatis accusamus corporis aspernatur dolorem culpa laboriosam. Incidunt, accusantium a. Earum, autem? Sed, vitae facere?",
+        "pid": 1
+    },
+    {
+        "id": 17,
+        "Name": "RTX 4060",
+        "img": "icon/p2.png",
+        "price": "$25.55",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti a perspiciatis accusamus corporis aspernatur dolorem culpa laboriosam. Incidunt, accusantium a. Earum, autem? Sed, vitae facere?",
+        "pid": 2
+    },
+    {
+        "id": 18,
+        "Name": "Samsung SSD 512GB",
+        "img": "icon/p3.png",
+        "price": "$25.55",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti a perspiciatis accusamus corporis aspernatur dolorem culpa laboriosam. Incidunt, accusantium a. Earum, autem? Sed, vitae facere?",
+        "pid": 3
+    },
+    {
+        "id": 19,
+        "Name": "Cooling Unit",
+        "img": "icon/p4.png",
+        "price": "$25.55",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti a perspiciatis accusamus corporis aspernatur dolorem culpa laboriosam. Incidunt, accusantium a. Earum, autem? Sed, vitae facere?",
+        "pid": 4
+    },
+    {
+        "id": 20,
+        "Name": "Power Supply Unit",
+        "img": "icon/p5.png",
+        "price": "$25.55",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti a perspiciatis accusamus corporis aspernatur dolorem culpa laboriosam. Incidunt, accusantium a. Earum, autem? Sed, vitae facere?",
+        "pid": 5
+    },
+    {
+        "id": 21,
+        "Name": "IBuy Power Gaming PC",
+        "img": "icon/p7.jpg",
+        "price": "$25.55",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti a perspiciatis accusamus corporis aspernatur dolorem culpa laboriosam. Incidunt, accusantium a. Earum, autem? Sed, vitae facere?",
+        "pid": 1
+    },
+    {
+        "id": 22,
+        "Name": "RTX 4060",
+        "img": "icon/p2.png",
+        "price": "$25.55",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti a perspiciatis accusamus corporis aspernatur dolorem culpa laboriosam. Incidunt, accusantium a. Earum, autem? Sed, vitae facere?",
+        "pid": 2
+    },
+    {
+        "id": 23,
+        "Name": "Samsung SSD 512GB",
+        "img": "icon/p3.png",
+        "price": "$25.55",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti a perspiciatis accusamus corporis aspernatur dolorem culpa laboriosam. Incidunt, accusantium a. Earum, autem? Sed, vitae facere?",
+        "pid": 3
+    },
+    {
+        "id": 24,
+        "Name": "Cooling Unit",
+        "img": "icon/p4.png",
+        "price": "$25.55",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti a perspiciatis accusamus corporis aspernatur dolorem culpa laboriosam. Incidunt, accusantium a. Earum, autem? Sed, vitae facere?",
+        "pid": 4
+    },
+    {
+        "id": 25,
+        "Name": "Power Supply Unit",
+        "img": "icon/p5.png",
+        "price": "$25.55",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti a perspiciatis accusamus corporis aspernatur dolorem culpa laboriosam. Incidunt, accusantium a. Earum, autem? Sed, vitae facere?",
+        "pid": 5
+    }
+]

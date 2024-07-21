@@ -1,0 +1,52 @@
+.main-body {
+    width: 100%;
+}
+
+.product-banner {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: x-large;
+}
+
+.product-container {
+    display: flex;
+    flex-direction: row; /* Ensures the image is on the left and details on the right */
+    margin: 20px;
+}
+
+.product-image {
+    width: 800px;
+    height: 400px;
+    flex-shrink: 0; /* Prevents resizing */
+}
+
+.product-details {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    padding-left: 500px; /* Adds space between the image and the details */
+}
+
+.product-details h1 {
+    width: 400px;
+    font-size: 2em;
+}
+
+.product-details p {
+    margin: 10px 0px 10px 0px;
+    font-size: 1.2em;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
